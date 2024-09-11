@@ -1,0 +1,10 @@
+INSERT INTO product (category, name, price) VALUES ('Electronics', 'Laptop', 500);
+INSERT INTO product (category, name, price) VALUES ('Electronics', 'Smartphone', 300);
+INSERT INTO product (category, name, price) VALUES ('Electronics', 'Tablet', 250);
+INSERT INTO product (category, name, price) VALUES ('Home Appliances', 'Refrigerator', 700);
+INSERT INTO product (category, name, price) VALUES ('Home Appliances', 'Microwave', 150);
+INSERT INTO product (category, name, price) VALUES ('Furniture', 'Sofa', 800);
+INSERT INTO product (category, name, price) VALUES ('Furniture', 'Dining Table', 600);
+INSERT INTO product (category, name, price) VALUES ('Fashion', 'T-shirt', 20);
+INSERT INTO product (category, name, price) VALUES ('Fashion', 'Jeans', 40);
+INSERT INTO product (category, name, price) VALUES ('Books', 'Programming in Java', 50);
